@@ -38,7 +38,7 @@
 ## Andrzej Sapkowski
 
 1. <s>The Last Wish</s>
-2. Sword of Destiny
+2. <s>Sword of Destiny</s>
 3. Season of Storms
 4. Blood of Elves
 5. Time of Contempt
@@ -67,4 +67,4 @@
 ## JK Rowling
 
 1. The Crimes of Grindewald
-2. Harry Potter and the Cursed Child
+2. <s>Harry Potter and the Cursed Child</s>
