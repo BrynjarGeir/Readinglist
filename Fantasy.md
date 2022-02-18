@@ -39,7 +39,7 @@
 
 1. <s>The Last Wish</s>
 2. <s>Sword of Destiny</s>
-3. Season of Storms
+3. <s>Season of Storms</s>
 4. Blood of Elves
 5. Time of Contempt
 6. Baptism of Fire
