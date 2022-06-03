@@ -8,7 +8,8 @@
 6. <s>The Fall of Gondolin</s>
 7. <s>Hugarlendur Tolkiens</s>
 8. <s>Unfinished Tales</s>
-9. Tales From the Perilous Realm
+9. <s>Tales From the Perilous Realm</s>
+10. <s>An Encyclopedia of Tolkien</s>
 
 ## George R.R. Martin
 
