@@ -41,8 +41,8 @@
 1. <s>The Last Wish</s>
 2. <s>Sword of Destiny</s>
 3. <s>Season of Storms</s>
-4. Blood of Elves
-5. Time of Contempt
+4. <s>Blood of Elves</s>
+5. <s>Time of Contempt</s>
 6. Baptism of Fire
 7. The Tower of the Swallow
 8. The Lady of the Lake
