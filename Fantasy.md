@@ -43,9 +43,9 @@
 3. <s>Season of Storms</s>
 4. <s>Blood of Elves</s>
 5. <s>Time of Contempt</s>
-6. Baptism of Fire
-7. The Tower of the Swallow
-8. The Lady of the Lake
+6. <s>Baptism of Fire</s>
+7. <s>The Tower of the Swallow</s>
+8. <s>The Lady of the Lake</s>
 
 ## Robert Jordan
 
