@@ -18,7 +18,7 @@
 3. A Storm of Swords
 4. A Feast for Crows
 5. A Dance with Dragons
-6. Fire & Blood
+6. <s>Fire & Blood</s>
 
 ## Brandon Sanderson
 
