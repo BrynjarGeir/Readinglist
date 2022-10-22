@@ -14,4 +14,4 @@
 6. The Cold War
 7. The 20th Century World
 8. <s>A History of Ancient Egypt: From the First Farmers to the Great Pyramid</s>
-9. A History of the Arab Peoples
+9. <s>A History of the Arab Peoples</s>
