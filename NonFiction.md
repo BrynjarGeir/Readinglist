@@ -12,7 +12,7 @@
 
 ## Politics
 1. <s>Fear</s>
-2. Fire and Fury
+2. <s>Fire and Fury</s>
 
 ## Biographical
 
@@ -30,7 +30,7 @@
 ## Malcolm Gladwell
 
 1. <s>David & Goliath</s>
-2. Outliers
+2. <s>Outliers</s>
 3. <s>Talking to strangers</s>
 
 ## Murakami
