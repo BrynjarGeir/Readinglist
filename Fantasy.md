@@ -13,8 +13,8 @@
 
 ## George R.R. Martin
 
-1. A Game of Thrones
-2. A Clash of Kings
+1. <s>A Game of Thrones</s>
+2. <s>A Clash of Kings</s>
 3. A Storm of Swords
 4. A Feast for Crows
 5. A Dance with Dragons
