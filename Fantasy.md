@@ -15,9 +15,9 @@
 
 1. <s>A Game of Thrones</s>
 2. <s>A Clash of Kings</s>
-3. A Storm of Swords
-4. A Feast for Crows
-5. A Dance with Dragons
+3. <s>A Storm of Swords</s>
+4. <s>A Feast for Crows</s>
+5. <s>A Dance with Dragons</s>
 6. <s>Fire & Blood</s>
 
 ## Brandon Sanderson
@@ -29,10 +29,10 @@
 5. The Alloy of Law
 6. Shadows of Self
 7. The Bands of Mourning
-8. The Way of Kings
-9. Words of Radiance
+8. <s>The Way of Kings</s>
+9. <s>Words of Radiance</s>
 10. Edgedancer
-11. Oathbringer
+11. <s>Oathbringer</s>
 12. Dawnshard
 13. Rythm of War
 
