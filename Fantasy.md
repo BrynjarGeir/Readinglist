@@ -31,10 +31,10 @@
 7. The Bands of Mourning
 8. <s>The Way of Kings</s>
 9. <s>Words of Radiance</s>
-10. Edgedancer
+10. <s>Edgedancer</s>
 11. <s>Oathbringer</s>
 12. Dawnshard
-13. Rythm of War
+13. <s>Rythm of War</s>
 
 ## Andrzej Sapkowski
 
