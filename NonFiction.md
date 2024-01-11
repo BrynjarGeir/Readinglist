@@ -3,7 +3,7 @@
 1. <s>Relativety</s>
 2. <s>Light</s>
 3. <s>Freedom</s>
-4. On the Origin of Species
+4. <s>On the Origin of Species</s>
 5. Republic
 
 ## Science
